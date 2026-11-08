@@ -118,4 +118,4 @@ async def boanoite(ctx):
     await ctx.send("Boa noite! Tenha bons sonhos!")
 
 # Executando o bot com o token do Discord
-bot.run('ADICIONE-O-TOKEN')
+bot.run('MTI2MTQyODcyMzQyOTgwMjA3OQ.GaGj76.o5vjyCEoaZXL1BV2ZEpd3pJ-IJYA-KqdSWzR3E')
